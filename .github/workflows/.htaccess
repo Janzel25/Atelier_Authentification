@@ -1,0 +1,4 @@
+AuthName "Accès protégé"
+AuthType Basic
+AuthUserFile /home/{janzel25_Alwaysdata}/www/.htpasswd
+Require valid-user
